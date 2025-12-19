@@ -1,0 +1,24 @@
+# Maven
+target/
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+
+# Secrets
+src/main/resources/mail.properties
+src/main/resources/META-INF/persistence.xml
+
+# Scripts
+*.sh
+
+# Server
+tomcat-server/
